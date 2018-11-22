@@ -16,5 +16,12 @@
 Change/Update preferences in config.json as needed, please refer to LearnConfig below.
 
 # Start RipPy
-cd RipPy 
-python3 RipPy.py
+* cd RipPy 
+* python3 RipPy.py
+
+
+# LearnConfig
+| Preset  | Description |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
