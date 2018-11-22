@@ -1,6 +1,3 @@
-# RipPy
-All-in-One Archiver Tool
-
 # Pre-Installation
 * Rename Folder to RipPy
 * Place the RipPy folder in your user directory (OPTIONAL)
