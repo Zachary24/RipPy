@@ -12,15 +12,13 @@
 
 * python3 initialSetup.py
 
-# Configure
-Change/Update preferences in config.json as needed, please refer to LearnConfig below.
+**Now you can run RipPy, please see Configure below first**
 
-# Start RipPy
-* cd RipPy 
 * python3 RipPy.py
 
+# Configure
+**Change/Update preferences in config.json as needed.**
 
-# LearnConfig
 | Function  | Description |
 | ------------- | ------------- |
 | instaUser  | Username of your Instagram account  |
