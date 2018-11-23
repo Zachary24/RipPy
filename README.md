@@ -22,7 +22,7 @@ Change/Update preferences in config.json as needed, please refer to LearnConfig 
 
 # LearnConfig
 | Preset  | Description |
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- |
 | instaUser  | Username of your Instagram account  |
 | instaPass  | Password of your Instagram account  |
 | igslogStatus  | Capture/Save log of downloaded posts for Instagram  |
