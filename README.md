@@ -23,12 +23,13 @@ Change/Update preferences in config.json as needed, please refer to LearnConfig 
 # LearnConfig
 | Preset  | Default Value | Description |
 | ------------- | ------------- | ------------- |
-| instaUser  |   | 
-| instaPass  |   |
-| igslogStatus  | True  |
-| ytdloutputTemplate  | -o 'Rips/Youtube/%(uploader)s/%(title)s - %(id)s - %(upload_date)s.%(ext)s'  |
-| ytdlhandlerTemplate  | Content Cell  |
-| ytdlhistoryFile  | Content Cell  |
-| wgetHandlers  | Content Cell  |
-| wikiStatus  | Content Cell  |
-| configStatus  | Content Cell  |
+| instaUser  |   | | Username of your Instagram account  |
+| instaPass  |   | | Password of your Instagram account  |
+| igslogStatus  | True  | | Capture/Save log of downloaded posts for Instagram  |
+| ytdloutputTemplate  | -o 'Rips/Youtube/%(uploader)s/%(title)s - %(id)s - %(upload_date)s.%(ext)s'  | | Default template for storing videos downloaded with youtube-dl  |
+| ytdlhandlerTemplate  | --no-check-certificate -f 137/248/136+140  | | Deafult Handlers (Options/ARGS) used when downloading videos with Youtube-dl  |
+| ytdlhistoryFile  | history.txt  | | FileName of Youtube-dl history log file, ytdlhistory stores the history files in a list, therefore you can have seperate log files for different categories of content E.G. Documentarys.txt, Trailers.txt, {MUST CONTAIN .TXT}  |
+| ytdlhistoryName  | history
+| wgetHandlers  |  |
+| wikiStatus  | False  |
+| configStatus  | False  |
