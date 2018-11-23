@@ -21,7 +21,14 @@ Change/Update preferences in config.json as needed, please refer to LearnConfig 
 
 
 # LearnConfig
-| Preset  | Description |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Preset  | Default Value | Description |
+| ------------- | ------------- | ------------- |
+| instaUser  |   | 
+| instaPass  |   |
+| igslogStatus  | True  |
+| ytdloutputTemplate  | -o 'Rips/Youtube/%(uploader)s/%(title)s - %(id)s - %(upload_date)s.%(ext)s'  |
+| ytdlhandlerTemplate  | Content Cell  |
+| ytdlhistoryFile  | Content Cell  |
+| wgetHandlers  | Content Cell  |
+| wikiStatus  | Content Cell  |
+| configStatus  | Content Cell  |
