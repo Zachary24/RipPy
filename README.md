@@ -1,7 +1,7 @@
 # Pre-Installation
 * Git Clone OR Download RipPy.
 * Rename Folder to RipPy if needed.
-* Place the RipPy folder in your user directory (OPTIONAL)
+* Place the RipPy folder in your user directory
 
 # Installation
 * cd RipPy
