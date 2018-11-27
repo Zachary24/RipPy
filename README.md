@@ -14,6 +14,7 @@
 * python3 initialSetup.py
 
 **Now you have to Configure RipPy.**
+
 [See Config Wiki Page](https://github.com/Zachary24/RipPy/wiki/Configure-RipPy)
 
 **Now you can run RipPy.**
