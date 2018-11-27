@@ -4,14 +4,14 @@
 * Place the RipPy folder in your user directory
 
 # Installation
-* cd RipPy
+* `cd RipPy`
 
 **Now you have to install some python3 packages.**
-* pip3 install -r Requirements.txt
+* `pip3 install -r Requirements.txt`
 
 **Next you need to create some directories.**
 
-* python3 initialSetup.py
+* `python3 initialSetup.py`
 
 **Now you have to Configure RipPy.**
 
@@ -19,5 +19,5 @@
 
 **Now you can run RipPy.**
 
-* python3 RipPy.py
+* `python3 RipPy.py`
 
