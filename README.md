@@ -1,4 +1,5 @@
 # Pre-Installation
+* Wget will need to ben installed if using it OR ripping reddit
 * Git Clone OR Download RipPy.
 * Rename Folder to RipPy if needed.
 * Place the RipPy folder in your user directory
