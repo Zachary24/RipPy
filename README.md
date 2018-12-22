@@ -1,5 +1,6 @@
 # Pre-Installation
-* Wget will need to ben installed if using it OR ripping reddit
+* Wget will need to be installed if using it OR ripping reddit
+* FFMpeg will need to be installed if using youtube-dl/ripping youtube
 * Git Clone OR Download RipPy.
 * Rename Folder to RipPy if needed.
 * Place the RipPy folder in your user directory
