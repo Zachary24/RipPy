@@ -1,6 +1,10 @@
+# Notes
+* RipPy can be run by either a GUI or CLI, both are based on the exact same code and makeup, which means the only difference is the UI, to run the CLI version uses `cli.py` script and for the GUI version use the `gui.py` script.  
+* Some providers have multiple rippers, such as instagram, which can be ripped with Instaloader or IG-Scraper
+
+
 # Pre-Installation
-* Wget will need to be installed if using it OR ripping reddit
-* FFMpeg will need to be installed if using youtube-dl/ripping youtube
+* Please install wget and ffmpeg
 * Git Clone OR Download RipPy.
 * Rename Folder to RipPy if needed.
 * Place the RipPy folder in your user directory
