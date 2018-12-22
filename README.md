@@ -21,8 +21,9 @@
 
 **Now you can run RipPy.**
 
-* `python3 RipPy.py`
-
+* `python3 cli.py`
+* OR
+* `python3 gui.py`
 ## [Configure RipPy](https://github.com/Zachary24/RipPy/wiki/Configure-RipPy)
 ## [Supported Websites](https://github.com/Zachary24/RipPy/wiki/Supported-Websites)
 ## [Upcoming Plans](https://github.com/Zachary24/RipPy/wiki/Upcoming-Plans)
