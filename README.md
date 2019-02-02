@@ -1,3 +1,8 @@
+<img width="614" alt="screen shot 2019-02-02 at 2 43 07 pm" src="https://user-images.githubusercontent.com/28928777/52168591-ec056700-26f9-11e9-8e18-7c2eee4ffcdd.png">
+<img width="614" alt="screen shot 2019-02-02 at 2 43 21 pm" src="https://user-images.githubusercontent.com/28928777/52168592-ec056700-26f9-11e9-8dc8-ee0d95b382d1.png">
+<img width="614" alt="screen shot 2019-02-02 at 2 43 25 pm" src="https://user-images.githubusercontent.com/28928777/52168593-ec056700-26f9-11e9-872c-eda2b96df7b2.png">
+
+
 # Notes
 * RipPy can be run by either a GUI or CLI, both are based on the exact same code and makeup, which means the only difference is the UI, to run the CLI version use the `cli.py` script and for the GUI version use the `gui.py` script.  
 * Some providers have multiple rippers, such as instagram, which can be ripped with Instaloader or IG-Scraper
